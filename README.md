@@ -79,7 +79,7 @@ What readers on Amazon have to say:
 
 
 
-## Who This Book Is for
+## This Book Is for those who are interested in python language. 
 As part of Packt's Blueprints series, this book is for intermediate users of OpenCV who aim to master their skills
 by developing advanced practical applications. You should already have some
 experience of building simple applications, and you are expected to be familiar with
